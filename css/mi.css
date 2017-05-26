@@ -2,7 +2,7 @@
 	background-color: rgba(0,0,0,0.5);
 }
 body{
-	background: #9E9E9E;
+	background: #9E9E9E !important;
 }
 .bold{
 	font-weight: bold;
