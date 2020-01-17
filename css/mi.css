@@ -9,3 +9,13 @@ body{
 .bold{
 	font-weight: bold;
 }
+
+#contenedor{
+	margin: 0 auto;
+	padding: 0 0;
+}
+
+.card, .row{
+	margin: 0 auto;
+	padding: 0 0;
+}
